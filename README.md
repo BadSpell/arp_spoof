@@ -1,3 +1,7 @@
 # arp_spoorf
-BoB Assignment written by BadSpell(JS K)
-OS: Ubuntu 16.04.1 LTS
+
+Bob 6th network assignment !!
+
+`
+Usage: ./arp_spoof [interface] [sender ip] [target ip] | [sender2 ip] [target2 ip] ...
+`
